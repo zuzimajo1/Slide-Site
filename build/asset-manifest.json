@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/slide-site/static/css/main.80308ea7.chunk.css",
+    "main.js": "/slide-site/static/js/main.c30b9526.chunk.js",
+    "main.js.map": "/slide-site/static/js/main.c30b9526.chunk.js.map",
+    "runtime-main.js": "/slide-site/static/js/runtime-main.d1ec4e14.js",
+    "runtime-main.js.map": "/slide-site/static/js/runtime-main.d1ec4e14.js.map",
+    "static/js/2.d5081484.chunk.js": "/slide-site/static/js/2.d5081484.chunk.js",
+    "static/js/2.d5081484.chunk.js.map": "/slide-site/static/js/2.d5081484.chunk.js.map",
+    "index.html": "/slide-site/index.html",
+    "static/css/main.80308ea7.chunk.css.map": "/slide-site/static/css/main.80308ea7.chunk.css.map",
+    "static/js/2.d5081484.chunk.js.LICENSE.txt": "/slide-site/static/js/2.d5081484.chunk.js.LICENSE.txt",
+    "static/media/boyet22.c04d3466.jpg": "/slide-site/static/media/boyet22.c04d3466.jpg",
+    "static/media/dandy.5593a3c0.jpg": "/slide-site/static/media/dandy.5593a3c0.jpg",
+    "static/media/frank2.0c1e1b0d.jpg": "/slide-site/static/media/frank2.0c1e1b0d.jpg",
+    "static/media/jeffrey2.7a8d1fa1.jpg": "/slide-site/static/media/jeffrey2.7a8d1fa1.jpg",
+    "static/media/philip.53ffaeae.jpg": "/slide-site/static/media/philip.53ffaeae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1ec4e14.js",
+    "static/js/2.d5081484.chunk.js",
+    "static/css/main.80308ea7.chunk.css",
+    "static/js/main.c30b9526.chunk.js"
+  ]
+}
